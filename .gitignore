@@ -1,0 +1,19 @@
+# environment variables
+*.env*
+!.env.example
+
+# vscode
+.vscode/
+
+# python
+__pycache__
+
+# pyenv
+.pyenv
+.python-version
+
+# pytest
+.pytest_cache
+
+# mypy
+.mypy_cache
